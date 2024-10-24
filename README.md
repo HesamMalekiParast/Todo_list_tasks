@@ -1,2 +1,11 @@
-# Todo_list_tasks
-this is a bash file script for manage the tasks in three mode comlplected
+# Todo-List
+Todo-List program with bash
+add:
+	for adding tasks
+view:
+	see incomplete tasks
+complete:
+	mark a task as complete
+delete:
+	removing task
+
